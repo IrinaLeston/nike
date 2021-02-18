@@ -1,0 +1,9 @@
+.container {
+  background-color: rgb(69, 89, 66);
+  width: 600px;
+  height: 400px;
+  margin: auto;
+
+}.general-info {
+  background-color: white;
+}
