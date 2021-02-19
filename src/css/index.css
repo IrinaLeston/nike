@@ -1,9 +1,62 @@
 .container {
-  background-color: rgb(69, 89, 66);
-  width: 600px;
-  height: 400px;
+  background-color: #122410;
+  width: 1920px;
+  height: 1080px;
   margin: auto;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid red;
+}
 
-}.general-info {
+.tenis {
+  width: 100px;
+  height: 100px;
+  border: 1px solid rgb(0, 255, 64);
+
+}
+
+.general-info {
+  width: 300px;
+  height: 400px;
+  padding: 40px;
   background-color: white;
+  display: grid;
+  align-items: center;
+  border: 1px solid rgb(0, 17, 255);
+}
+
+.top-info {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  justify-content: space-between;
+  grid-gap: 50px;
+
+}
+
+.stars {
+  background-color: rgb(225, 212, 24);
+}
+
+.price {
+  font-family: 'Montserrat', Courier, monospace;
+  font-size: 50px;
+  font-weight: lighter;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: 'gotham', Courier, monospace;
+  color: rgb(5, 5, 5);
+}
+
+h2{
+  font-size: 20px;
+  font-family: 'gotham', Courier, monospace;
+  font-weight: lighter;
+}
+
+strong{
+  font-size: 10px;
 }
