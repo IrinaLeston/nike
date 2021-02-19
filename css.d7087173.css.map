@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,WACE,wBAAiC,CACjC,WAAY,CACZ,YAAa,CACb,WAEF,CAAC,cACC,qBACF","file":"css.d7087173.css","sourceRoot":"../src","sourcesContent":[".container {\n  background-color: rgb(69, 89, 66);\n  width: 600px;\n  height: 400px;\n  margin: auto;\n\n}.general-info {\n  background-color: white;\n}"]}
